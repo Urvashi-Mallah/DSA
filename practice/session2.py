@@ -15,7 +15,7 @@ def day_of_week(number):
     print(day_in_week[number])
 
 number = int(input("type the number  "))    
-day_of_week(number)
+day_of_week(number) 
 
 # Make a dictionary
 # this_dict = {
